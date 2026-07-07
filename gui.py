@@ -674,53 +674,54 @@ elif page == "📈 Charts":
 
 elif page == "ℹ️ About":
 
-    st.title("ℹ️ About")
-
-    st.info("""
-
-## Employee Salary Analysis Dashboard
-
-This dashboard was developed using:
-
-✅ Python
-✅ NumPy
-✅ Pandas
-✅ Matplotlib
-✅ Seaborn
-✅ Streamlit
-
-----------------------------
-
-Dataset:
-employee_salary_analysis.csv
-
-----------------------------
-
-### Features
-
-✔ Employee Dataset Preview
-
-✔ Salary Statistics
-
-✔ NumPy Analysis
-
-✔ GroupBy Analysis
-
-✔ Employee Filtering
-
-✔ Interactive Charts
-
-✔ Download Histogram
-
-----------------------------
-
-Developed by **Coding Hub**
-
-© 2026 All Rights Reserved
-
-    """)
+    st.title("👨‍💼 Employee Salary Analysis")
 
     st.markdown("---")
 
-    st.success("Thank you for using Employee Salary Analysis Dashboard 💙")
-  
+    st.subheader("About This Project")
+
+    st.write("🛠 Technologies Used:")
+
+    st.write("✅ Python")
+    st.write("✅ NumPy")
+    st.write("✅ Pandas")
+    st.write("✅ Matplotlib")
+    st.write("✅ Seaborn")
+    st.write("✅ Streamlit")
+
+    st.markdown("---")
+
+    st.write(" 📊 Dataset: Employee Salary Analysis Dataset")
+
+    st.markdown("---")
+
+    st.write("✨ Features")
+
+    st.write("✔ Dataset Preview")
+    st.write("✔ Statistical Analysis")
+    st.write("✔ NumPy Analysis")
+    st.write("✔ GroupBy Analysis")
+    st.write("✔ Employee Filtering")
+    st.write("✔ Interactive Charts")
+    st.write("✔ Download Histogram")
+
+    st.markdown("---")
+
+    st.markdown(
+        """
+        <div style='text-align:center;'>
+
+        <b>Developed by Coding Hub</b>
+
+        <br><br>
+
+        © 2026 All Rights Reserved
+
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
+
+    st.success(
+        "Thank you for using Employee Salary Analysis Dashboard 💙"
+    )
