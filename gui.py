@@ -678,54 +678,61 @@ elif page == "ℹ️ About":
 
     with st.container(border=True):
 
+        st.subheader("About This Project")
+
+        st.markdown("### 🛠 Technologies Used")
+
         st.markdown("""
-            <div style="
-            background-color:#EAF4FF;
-            padding:25px;
-            border-radius:15px;
-            border:2px solid #4A90E2;
-            ">
-            
-            <h2>About This Project</h2>
-            
-            <h3>🛠 Technologies Used</h3>
-            
-            ✅ Python<br>
-            ✅ NumPy<br>
-            ✅ Pandas<br>
-            ✅ Matplotlib<br>
-            ✅ Seaborn<br>
-            ✅ Streamlit
-            
-            <hr>
-            
-            <h3>📊 Dataset</h3>
-            
-            Employee Salary Analysis Dataset
-            
-            <hr>
-            
-            <h3>✨ Features</h3>
-            
-            ✔ Dataset Preview<br>
-            ✔ Statistical Analysis<br>
-            ✔ NumPy Analysis<br>
-            ✔ GroupBy Analysis<br>
-            ✔ Employee Filtering<br>
-            ✔ Interactive Charts<br>
-            ✔ Download Histogram
-            
-            <hr>
-            
+✅ Python
+
+✅ NumPy
+
+✅ Pandas
+
+✅ Matplotlib
+
+✅ Seaborn
+
+✅ Streamlit
+""")
+
+        st.markdown("---")
+
+        st.markdown("### 📊 Dataset")
+
+        st.write("Employee Salary Analysis Dataset")
+
+        st.markdown("---")
+
+        st.markdown("### ✨ Features")
+
+        st.markdown("""
+✔ Dataset Preview
+
+✔ Statistical Analysis
+
+✔ NumPy Analysis
+
+✔ GroupBy Analysis
+
+✔ Employee Filtering
+
+✔ Interactive Charts
+
+✔ Download Histogram
+""")
+
+        st.markdown("---")
+
+        st.markdown(
+            """
             <div style="text-align:center;">
-            
-            <h3>Developed by Coding Hub</h3>
-            
-            <b>© 2026 All Rights Reserved</b>
-            
+                <h4>Developed by Coding Hub</h4>
+                <p>© 2026 All Rights Reserved</p>
             </div>
-            
-            </div>
-            """, unsafe_allow_html=True)
-            
-            st.success("Thank you for using Employee Salary Analysis Dashboard 💙")
+            """,
+            unsafe_allow_html=True
+        )
+
+    st.success("Thank you for using Employee Salary Analysis Dashboard 💙")
+    
