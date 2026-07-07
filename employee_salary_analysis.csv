@@ -1,0 +1,201 @@
+﻿Employee_ID,Name,Gender,Age,Department,Job_Title,Experience_Years,Salary,Bonus,Total_Salary,Performance_Rating,Overtime_Hours,Work_Mode,City
+EMP001,Khaled Hassan,Female,39,Finance,Accountant,10,20808,2470,23278,2.9,40,Remote,Tanta
+EMP002,Mahmoud Ibrahim,Female,32,IT,Backend Developer,8,20716,4572,25288,3.3,5,Remote,Giza
+EMP003,Khaled Hassan,Male,40,Sales,Sales Representative,15,25339,2348,27687,4,34,Onsite,Cairo
+EMP004,Omar Hassan,Female,29,AI,Data Analyst,6,24243,3194,27437,3.2,40,Remote,Cairo
+EMP005,Nada Saeed,Male,26,Finance,Accountant,1,12592,3810,16402,3.5,8,Hybrid,Cairo
+EMP006,Mariam Samy,Male,27,IT,Backend Developer,1,14230,823,15053,2.6,30,Remote,Cairo
+EMP007,Ahmed Nasser,Female,37,HR,HR Specialist,9,18975,1252,20227,2.7,30,Onsite,Cairo
+EMP008,Yara Hassan,Female,29,AI,Data Analyst,0,14982,1222,16204,4.7,8,Onsite,Giza
+EMP009,Ali Ali,Male,27,HR,HR Specialist,2,9061,1845,10906,4.9,36,Remote,Tanta
+EMP010,Hana Hassan,Female,43,Marketing,Marketing Specialist,15,27074,2693,29767,3.9,18,Hybrid,Alexandria
+EMP011,Ahmed Mahmoud,Male,38,IT,Software Engineer,15,29289,792,30081,3.8,5,Hybrid,Alexandria
+EMP012,Aya Kamel,Female,37,IT,Backend Developer,12,26562,4270,30832,4.6,18,Onsite,Tanta
+EMP013,Mariam Nasser,Female,40,Finance,Accountant,10,20793,2802,23595,4.9,16,Hybrid,Tanta
+EMP014,Youssef Mahmoud,Male,36,AI,Data Analyst,9,25123,2746,27869,3,37,Remote,Tanta
+EMP015,Nada Hassan,Male,27,Sales,Sales Representative,1,9861,681,10542,4.1,21,Onsite,Tanta
+EMP016,Omar Adel,Female,34,AI,Data Analyst,12,28754,2961,31715,3.6,9,Hybrid,Mansoura
+EMP017,Youssef Ali,Female,26,Sales,Sales Representative,2,10660,537,11197,4.8,40,Hybrid,Tanta
+EMP018,Omar Ali,Female,35,Finance,Accountant,5,16223,1219,17442,2.9,30,Onsite,Tanta
+EMP019,Mostafa Ibrahim,Female,38,Sales,Sales Representative,10,19829,4340,24169,4.3,35,Onsite,Mansoura
+EMP020,Sara Adel,Female,28,AI,ML Engineer,3,18467,3012,21479,4.5,13,Hybrid,Giza
+EMP021,Hassan Kamel,Female,31,HR,HR Specialist,5,13412,1692,15104,3.7,6,Hybrid,Tanta
+EMP022,Mahmoud Ali,Female,30,AI,ML Engineer,2,17543,2869,20412,3.8,39,Hybrid,Mansoura
+EMP023,Mariam Nasser,Female,42,IT,Software Engineer,14,31096,4938,36034,3.5,35,Hybrid,Tanta
+EMP024,Amr Nasser,Female,22,Finance,Accountant,0,10435,2999,13434,3.5,23,Remote,Giza
+EMP025,Ali Hassan,Female,27,Sales,Sales Representative,3,11534,3418,14952,2.6,36,Hybrid,Giza
+EMP026,Ali Mahmoud,Female,30,Finance,Accountant,2,13116,2596,15712,3.7,6,Remote,Mansoura
+EMP027,Aya Hassan,Female,28,HR,HR Specialist,6,16147,791,16938,2.6,22,Hybrid,Mansoura
+EMP028,Khaled Kamel,Female,42,Finance,Accountant,12,24602,1129,25731,4,2,Remote,Tanta
+EMP029,Hassan Adel,Female,27,AI,Data Analyst,5,20733,2244,22977,3.8,23,Remote,Mansoura
+EMP030,Farah Nasser,Female,43,AI,ML Engineer,15,33004,1436,34440,4,6,Hybrid,Alexandria
+EMP031,Laila Adel,Female,42,IT,Backend Developer,15,29956,2825,32781,3.4,20,Onsite,Cairo
+EMP032,Hana Ali,Female,23,IT,Software Engineer,0,13281,2546,15827,4.3,27,Onsite,Tanta
+EMP033,Mostafa Hassan,Female,36,Marketing,Marketing Specialist,7,16648,3210,19858,3,25,Hybrid,Mansoura
+EMP034,Mohamed Mahmoud,Male,32,HR,HR Specialist,5,12122,793,12915,3.1,29,Remote,Cairo
+EMP035,Hana Nasser,Male,37,Finance,Accountant,13,25832,1285,27117,3.7,11,Onsite,Alexandria
+EMP036,Youssef Adel,Female,30,Sales,Sales Representative,8,19194,2928,22122,3.2,28,Onsite,Mansoura
+EMP037,Farah Nasser,Male,32,Finance,Accountant,10,20711,554,21265,4.5,27,Remote,Mansoura
+EMP038,Amr Hassan,Female,38,HR,HR Specialist,12,20930,1511,22441,4.1,29,Onsite,Tanta
+EMP039,Ahmed Hassan,Male,36,Finance,Accountant,12,22828,1548,24376,3.6,28,Hybrid,Tanta
+EMP040,Ali Nasser,Male,34,HR,HR Specialist,7,17193,4818,22011,4.4,27,Hybrid,Mansoura
+EMP041,Khaled Ali,Male,40,AI,ML Engineer,12,28502,2136,30638,2.8,35,Onsite,Tanta
+EMP042,Nada Kamel,Male,35,Sales,Sales Representative,11,22175,4632,26807,3.6,8,Onsite,Tanta
+EMP043,Hassan Samy,Female,26,IT,Software Engineer,2,13404,3904,17308,4.3,29,Onsite,Mansoura
+EMP044,Mariam Ali,Male,38,Marketing,Marketing Specialist,13,24255,2586,26841,2.6,39,Onsite,Giza
+EMP045,Khaled Samy,Female,26,Finance,Accountant,3,13400,4065,17465,3.2,20,Remote,Giza
+EMP046,Mariam Hassan,Male,22,Finance,Accountant,0,9248,2787,12035,3.8,7,Remote,Giza
+EMP047,Amr Ibrahim,Male,26,Marketing,Marketing Specialist,1,11240,3591,14831,3.5,31,Onsite,Mansoura
+EMP048,Omar Ali,Male,42,AI,Data Analyst,12,29931,2981,32912,3.5,18,Onsite,Alexandria
+EMP049,Sara Samy,Male,39,Marketing,Marketing Specialist,11,22085,4716,26801,3.6,0,Remote,Cairo
+EMP050,Amr Ibrahim,Female,29,IT,Backend Developer,2,16579,4377,20956,3,35,Onsite,Giza
+EMP051,Mahmoud Samy,Male,39,HR,HR Specialist,11,20646,1011,21657,4.5,11,Onsite,Tanta
+EMP052,Nada Samy,Male,28,Sales,Sales Representative,3,13498,4617,18115,2.8,25,Onsite,Alexandria
+EMP053,Khaled Ibrahim,Female,22,Sales,Sales Representative,0,9324,3352,12676,4.8,39,Remote,Mansoura
+EMP054,Mohamed Saeed,Female,39,Marketing,Marketing Specialist,15,26930,1404,28334,3.2,3,Onsite,Tanta
+EMP055,Amr Hassan,Female,37,HR,HR Specialist,15,24494,3490,27984,2.8,7,Hybrid,Giza
+EMP056,Salma Nasser,Female,29,Sales,Sales Representative,3,11149,2562,13711,4.1,29,Hybrid,Cairo
+EMP057,Ahmed Ali,Female,30,HR,HR Specialist,1,8426,1365,9791,2.7,28,Onsite,Tanta
+EMP058,Laila Samy,Female,32,HR,HR Specialist,9,19565,4105,23670,4.4,9,Onsite,Alexandria
+EMP059,Nada Hassan,Male,42,HR,HR Specialist,15,26161,2259,28420,2.9,38,Hybrid,Cairo
+EMP060,Mariam Mahmoud,Male,31,Marketing,Marketing Specialist,1,9768,3516,13284,4.4,40,Onsite,Giza
+EMP061,Omar Adel,Female,28,Marketing,Marketing Specialist,6,17526,3202,20728,4.1,0,Onsite,Alexandria
+EMP062,Aya Mahmoud,Female,37,Sales,Sales Representative,11,19874,946,20820,2.8,31,Onsite,Giza
+EMP063,Yara Samy,Male,29,Marketing,Marketing Specialist,4,14575,811,15386,2.7,29,Onsite,Mansoura
+EMP064,Hana Nasser,Female,37,Finance,Accountant,8,19087,1588,20675,4.2,34,Remote,Tanta
+EMP065,Ali Saeed,Female,40,HR,HR Specialist,13,23142,3014,26156,3.2,28,Onsite,Mansoura
+EMP066,Youssef Ashraf,Female,35,Sales,Sales Representative,10,20950,688,21638,4.8,36,Remote,Tanta
+EMP067,Ahmed Mahmoud,Male,24,Sales,Sales Representative,2,10855,1843,12698,3.1,29,Hybrid,Mansoura
+EMP068,Hana Mahmoud,Female,34,Finance,Accountant,5,16538,3491,20029,2.5,37,Hybrid,Cairo
+EMP069,Hassan Kamel,Female,40,Sales,Sales Representative,15,26749,2891,29640,4.1,4,Onsite,Alexandria
+EMP070,Laila Samy,Male,31,Marketing,Marketing Specialist,6,17027,1315,18342,2.6,17,Hybrid,Alexandria
+EMP071,Salma Ali,Male,39,IT,Backend Developer,13,28829,1153,29982,2.8,22,Hybrid,Tanta
+EMP072,Ahmed Samy,Female,33,HR,HR Specialist,10,20983,3159,24142,4.7,5,Remote,Giza
+EMP073,Youssef Adel,Male,34,Sales,Sales Representative,9,19562,4608,24170,3.8,13,Onsite,Mansoura
+EMP074,Nour Hassan,Female,38,Marketing,Marketing Specialist,9,19632,4261,23893,4,14,Hybrid,Alexandria
+EMP075,Ali Mahmoud,Female,30,Finance,Accountant,7,19065,1503,20568,3.5,31,Onsite,Tanta
+EMP076,Hana Adel,Male,31,Marketing,Marketing Specialist,4,13993,2924,16917,4.1,3,Onsite,Alexandria
+EMP077,Ali Hassan,Male,37,Sales,Sales Representative,14,24126,2426,26552,4.3,18,Hybrid,Mansoura
+EMP078,Mahmoud Ibrahim,Male,36,Finance,Accountant,8,18522,722,19244,4.7,40,Remote,Alexandria
+EMP079,Mostafa Mahmoud,Male,33,AI,Data Analyst,7,22477,1934,24411,4.2,12,Remote,Giza
+EMP080,Amr Saeed,Male,26,Finance,Accountant,3,14839,4298,19137,3.6,0,Hybrid,Alexandria
+EMP081,Salma Samy,Male,42,Finance,Accountant,12,25827,2773,28600,4.9,34,Remote,Cairo
+EMP082,Ahmed Ali,Male,39,AI,ML Engineer,15,32097,4316,36413,3.8,2,Onsite,Alexandria
+EMP083,Amr Ibrahim,Female,28,Marketing,Marketing Specialist,0,7692,989,8681,3.6,2,Onsite,Cairo
+EMP084,Sara Adel,Male,34,Sales,Sales Representative,4,14421,1100,15521,4,1,Onsite,Alexandria
+EMP085,Laila Ashraf,Female,29,AI,ML Engineer,0,14736,4321,19057,4.6,38,Remote,Tanta
+EMP086,Omar Kamel,Male,29,IT,Backend Developer,1,12539,1540,14079,4.8,21,Remote,Mansoura
+EMP087,Ahmed Ashraf,Female,34,Marketing,Marketing Specialist,12,22430,3805,26235,4,27,Hybrid,Giza
+EMP088,Nada Ashraf,Female,30,Sales,Sales Representative,2,10421,3107,13528,4.6,39,Onsite,Giza
+EMP089,Mariam Saeed,Male,32,Sales,Sales Representative,4,13125,4068,17193,2.6,32,Remote,Mansoura
+EMP090,Youssef Ashraf,Female,28,Marketing,Marketing Specialist,1,8243,2877,11120,4.6,18,Hybrid,Alexandria
+EMP091,Youssef Adel,Male,25,IT,Backend Developer,3,16820,1482,18302,4.9,23,Hybrid,Alexandria
+EMP092,Amr Adel,Female,30,Marketing,Marketing Specialist,3,11141,4967,16108,2.8,0,Onsite,Tanta
+EMP093,Mariam Ashraf,Female,24,Sales,Sales Representative,2,12290,2701,14991,4.9,14,Onsite,Cairo
+EMP094,Yara Nasser,Male,44,Sales,Sales Representative,14,26154,1536,27690,2.8,9,Remote,Tanta
+EMP095,Hana Adel,Female,29,Marketing,Marketing Specialist,0,9220,594,9814,2.6,19,Hybrid,Alexandria
+EMP096,Mahmoud Ibrahim,Female,38,HR,HR Specialist,13,22299,1068,23367,2.9,20,Hybrid,Giza
+EMP097,Sara Ashraf,Female,36,AI,ML Engineer,10,28065,4591,32656,3.5,27,Onsite,Alexandria
+EMP098,Hassan Kamel,Female,25,Sales,Sales Representative,1,9170,3043,12213,2.5,9,Hybrid,Mansoura
+EMP099,Aya Mahmoud,Female,28,Finance,Accountant,6,15315,1367,16682,4,16,Remote,Alexandria
+EMP100,Omar Ibrahim,Female,41,IT,Software Engineer,14,28783,1784,30567,3.8,37,Onsite,Tanta
+EMP101,Nada Mahmoud,Male,41,AI,Data Analyst,11,28911,3710,32621,3.5,38,Hybrid,Giza
+EMP102,Omar Saeed,Male,29,AI,Data Analyst,2,17535,4074,21609,4,7,Onsite,Alexandria
+EMP103,Laila Kamel,Male,34,Marketing,Marketing Specialist,12,22769,1915,24684,2.7,22,Hybrid,Giza
+EMP104,Laila Ashraf,Male,29,Marketing,Marketing Specialist,1,11604,2397,14001,4.3,19,Hybrid,Giza
+EMP105,Mostafa Adel,Male,34,HR,HR Specialist,5,14765,3798,18563,4.1,6,Onsite,Alexandria
+EMP106,Mariam Adel,Male,27,IT,Backend Developer,4,19069,4297,23366,3.9,18,Onsite,Alexandria
+EMP107,Mohamed Kamel,Male,38,IT,Backend Developer,13,26874,2646,29520,3.2,16,Onsite,Tanta
+EMP108,Youssef Adel,Male,34,Marketing,Marketing Specialist,5,15818,3013,18831,4.7,38,Hybrid,Giza
+EMP109,Youssef Adel,Female,36,Sales,Sales Representative,12,24268,3679,27947,3.3,15,Onsite,Giza
+EMP110,Sara Ali,Male,38,IT,Backend Developer,8,20992,662,21654,3.5,31,Hybrid,Tanta
+EMP111,Laila Nasser,Male,32,Sales,Sales Representative,3,12012,1377,13389,2.7,25,Remote,Giza
+EMP112,Mahmoud Mahmoud,Male,33,IT,Software Engineer,3,18095,1335,19430,4.8,37,Onsite,Mansoura
+EMP113,Mahmoud Ibrahim,Male,33,IT,Software Engineer,6,19316,3898,23214,4.6,31,Onsite,Tanta
+EMP114,Yara Ashraf,Female,39,Sales,Sales Representative,10,19942,1697,21639,4.2,2,Remote,Alexandria
+EMP115,Yara Ashraf,Male,28,AI,ML Engineer,5,22241,1035,23276,3.3,3,Remote,Cairo
+EMP116,Salma Ashraf,Female,28,Finance,Accountant,0,9064,4375,13439,2.7,9,Remote,Tanta
+EMP117,Hassan Adel,Female,32,HR,HR Specialist,2,8615,4891,13506,2.6,17,Onsite,Tanta
+EMP118,Salma Hassan,Male,37,IT,Backend Developer,8,23035,2425,25460,3.9,30,Onsite,Alexandria
+EMP119,Farah Samy,Female,40,IT,Backend Developer,11,25096,830,25926,4.8,13,Onsite,Mansoura
+EMP120,Amr Ibrahim,Male,33,AI,Data Analyst,7,22595,1793,24388,3,23,Onsite,Cairo
+EMP121,Sara Ali,Female,40,Marketing,Marketing Specialist,15,27911,1329,29240,2.8,15,Remote,Mansoura
+EMP122,Hassan Mahmoud,Female,31,Sales,Sales Representative,5,13151,4169,17320,4.4,16,Onsite,Giza
+EMP123,Mostafa Adel,Male,33,Finance,Accountant,8,20764,3741,24505,4.3,36,Onsite,Cairo
+EMP124,Mariam Mahmoud,Female,39,Sales,Sales Representative,9,20087,4483,24570,3.2,2,Onsite,Cairo
+EMP125,Khaled Ibrahim,Female,33,AI,ML Engineer,4,19539,1325,20864,2.9,19,Remote,Mansoura
+EMP126,Ali Hassan,Male,36,Finance,Accountant,14,26770,2979,29749,3.5,33,Remote,Mansoura
+EMP127,Laila Nasser,Male,38,Finance,Accountant,12,23914,4949,28863,3.7,36,Hybrid,Mansoura
+EMP128,Khaled Adel,Female,40,HR,HR Specialist,15,25739,1718,27457,4.9,2,Hybrid,Alexandria
+EMP129,Hassan Adel,Female,30,Finance,Accountant,8,17629,2188,19817,2.7,8,Hybrid,Cairo
+EMP130,Nour Saeed,Female,36,Marketing,Marketing Specialist,11,20425,730,21155,2.7,29,Remote,Alexandria
+EMP131,Farah Hassan,Male,31,Finance,Accountant,1,9566,4955,14521,4.1,35,Hybrid,Mansoura
+EMP132,Hassan Nasser,Female,34,HR,HR Specialist,9,19300,536,19836,4.9,13,Remote,Giza
+EMP133,Sara Adel,Female,39,Finance,Accountant,13,26138,4971,31109,4.9,7,Hybrid,Giza
+EMP134,Farah Kamel,Female,33,AI,Data Analyst,8,25676,823,26499,4.4,10,Remote,Tanta
+EMP135,Ali Hassan,Male,30,Marketing,Marketing Specialist,6,16819,2844,19663,4.4,25,Hybrid,Giza
+EMP136,Omar Nasser,Male,29,HR,HR Specialist,0,8802,3847,12649,4.6,36,Hybrid,Cairo
+EMP137,Nour Ashraf,Female,41,AI,ML Engineer,13,29709,514,30223,3.5,8,Hybrid,Giza
+EMP138,Khaled Ali,Female,38,Finance,Accountant,10,21735,2764,24499,4.2,34,Hybrid,Giza
+EMP139,Mariam Ashraf,Male,33,HR,HR Specialist,4,14149,2122,16271,3.3,30,Remote,Cairo
+EMP140,Sara Hassan,Female,42,Finance,Accountant,12,23955,1666,25621,3.4,37,Onsite,Giza
+EMP141,Salma Ibrahim,Female,34,AI,ML Engineer,8,25285,4467,29752,3.7,15,Hybrid,Giza
+EMP142,Khaled Ali,Female,41,Marketing,Marketing Specialist,13,25827,4159,29986,5,39,Hybrid,Cairo
+EMP143,Ali Samy,Male,39,HR,HR Specialist,9,18198,1545,19743,3.2,11,Onsite,Mansoura
+EMP144,Mohamed Hassan,Female,27,Marketing,Marketing Specialist,5,13836,3796,17632,4.3,39,Remote,Giza
+EMP145,Farah Hassan,Male,33,AI,Data Analyst,3,18394,2652,21046,2.9,7,Onsite,Cairo
+EMP146,Mostafa Mahmoud,Female,24,Sales,Sales Representative,0,8438,1795,10233,3.1,3,Remote,Giza
+EMP147,Laila Mahmoud,Female,34,Finance,Accountant,11,23748,3215,26963,4.9,28,Hybrid,Mansoura
+EMP148,Hassan Saeed,Female,28,Marketing,Marketing Specialist,1,8659,4887,13546,3.2,24,Hybrid,Giza
+EMP149,Ali Saeed,Male,42,AI,ML Engineer,15,35052,4070,39122,2.5,13,Onsite,Tanta
+EMP150,Mostafa Mahmoud,Male,34,IT,Software Engineer,12,26469,4042,30511,4.5,25,Remote,Giza
+EMP151,Nada Ali,Male,39,Marketing,Marketing Specialist,9,21299,4785,26084,3.8,5,Remote,Alexandria
+EMP152,Mahmoud Hassan,Male,31,Sales,Sales Representative,4,13223,4051,17274,3.5,32,Remote,Alexandria
+EMP153,Hana Ibrahim,Male,37,IT,Backend Developer,9,23680,4724,28404,2.6,33,Hybrid,Alexandria
+EMP154,Mahmoud Saeed,Male,36,HR,HR Specialist,8,18243,3473,21716,3.9,23,Hybrid,Alexandria
+EMP155,Omar Samy,Male,29,Marketing,Marketing Specialist,6,15830,1684,17514,4.4,31,Onsite,Cairo
+EMP156,Salma Adel,Male,30,HR,HR Specialist,5,12083,2377,14460,4,19,Hybrid,Alexandria
+EMP157,Mohamed Mahmoud,Female,28,Finance,Accountant,1,9951,730,10681,3.7,40,Hybrid,Giza
+EMP158,Ahmed Saeed,Male,36,IT,Software Engineer,12,27265,1335,28600,2.6,34,Remote,Alexandria
+EMP159,Hana Hassan,Female,38,Finance,Accountant,15,28413,3039,31452,2.8,7,Hybrid,Tanta
+EMP160,Hassan Nasser,Female,33,Sales,Sales Representative,9,19024,1243,20267,4.7,4,Remote,Giza
+EMP161,Ali Kamel,Female,32,AI,Data Analyst,3,18065,625,18690,4.3,2,Remote,Mansoura
+EMP162,Hassan Ibrahim,Male,43,AI,ML Engineer,14,31168,4686,35854,4.1,7,Onsite,Mansoura
+EMP163,Mahmoud Ali,Male,24,Sales,Sales Representative,2,9632,4054,13686,2.5,23,Onsite,Mansoura
+EMP164,Ahmed Saeed,Male,33,AI,ML Engineer,7,24988,2432,27420,3.4,33,Hybrid,Giza
+EMP165,Nour Nasser,Female,30,AI,Data Analyst,1,17810,3018,20828,3.3,33,Onsite,Cairo
+EMP166,Mahmoud Ibrahim,Female,26,AI,ML Engineer,2,16916,4867,21783,4.1,23,Remote,Mansoura
+EMP167,Farah Ashraf,Male,24,Finance,Accountant,1,10347,2324,12671,4.7,34,Onsite,Cairo
+EMP168,Hassan Adel,Female,35,Sales,Sales Representative,13,23418,4614,28032,4.6,40,Hybrid,Tanta
+EMP169,Ali Mahmoud,Female,26,AI,Data Analyst,4,21175,3656,24831,4.9,24,Remote,Cairo
+EMP170,Ali Ibrahim,Male,30,Sales,Sales Representative,1,10331,4527,14858,2.5,28,Remote,Alexandria
+EMP171,Aya Ali,Female,36,Sales,Sales Representative,12,23351,2164,25515,2.8,9,Hybrid,Tanta
+EMP172,Mariam Adel,Female,43,IT,Backend Developer,14,27955,2296,30251,4.7,30,Remote,Giza
+EMP173,Ali Samy,Female,33,HR,HR Specialist,11,19844,1477,21321,3.7,40,Onsite,Cairo
+EMP174,Yara Mahmoud,Male,37,IT,Software Engineer,9,23047,1352,24399,3.5,27,Remote,Tanta
+EMP175,Khaled Ibrahim,Male,38,Finance,Accountant,13,24857,4915,29772,2.7,10,Onsite,Tanta
+EMP176,Mahmoud Saeed,Male,28,Finance,Accountant,4,13248,1847,15095,3.9,10,Onsite,Alexandria
+EMP177,Laila Kamel,Female,34,HR,HR Specialist,7,16773,2124,18897,4.2,25,Hybrid,Mansoura
+EMP178,Yara Hassan,Male,33,HR,HR Specialist,4,14194,4241,18435,3.1,30,Remote,Cairo
+EMP179,Mahmoud Adel,Male,30,Marketing,Marketing Specialist,6,15273,3286,18559,4.3,11,Onsite,Cairo
+EMP180,Khaled Ashraf,Female,25,Marketing,Marketing Specialist,2,11922,3732,15654,3,34,Remote,Giza
+EMP181,Hana Ibrahim,Male,32,Marketing,Marketing Specialist,9,20389,1481,21870,3.1,28,Hybrid,Giza
+EMP182,Aya Nasser,Female,31,HR,HR Specialist,6,16107,4470,20577,2.8,7,Remote,Alexandria
+EMP183,Aya Mahmoud,Male,41,IT,Software Engineer,14,28904,3804,32708,4,8,Hybrid,Cairo
+EMP184,Nada Ali,Female,35,Marketing,Marketing Specialist,9,20673,2019,22692,2.7,28,Onsite,Mansoura
+EMP185,Ali Nasser,Female,30,Marketing,Marketing Specialist,5,15059,3571,18630,3.2,16,Hybrid,Mansoura
+EMP186,Aya Ali,Female,32,Marketing,Marketing Specialist,8,17664,2596,20260,3.7,16,Hybrid,Alexandria
+EMP187,Sara Ashraf,Female,32,HR,HR Specialist,5,14951,1737,16688,3.6,17,Onsite,Cairo
+EMP188,Mohamed Adel,Male,27,AI,Data Analyst,3,19831,3000,22831,3.5,1,Hybrid,Mansoura
+EMP189,Khaled Ali,Female,31,Finance,Accountant,3,13966,2986,16952,4.9,39,Remote,Giza
+EMP190,Mostafa Nasser,Female,35,IT,Backend Developer,5,18276,1864,20140,3.5,18,Onsite,Tanta
+EMP191,Amr Samy,Male,38,AI,Data Analyst,9,26725,2316,29041,2.8,28,Hybrid,Mansoura
+EMP192,Mostafa Saeed,Female,45,AI,Data Analyst,15,33544,3579,37123,4,25,Hybrid,Cairo
+EMP193,Ahmed Adel,Female,39,IT,Backend Developer,15,30414,3307,33721,3.1,0,Onsite,Mansoura
+EMP194,Omar Ashraf,Male,30,Marketing,Marketing Specialist,4,12627,2469,15096,4.3,35,Hybrid,Giza
+EMP195,Yara Saeed,Male,34,Sales,Sales Representative,11,22952,851,23803,3.3,16,Hybrid,Cairo
+EMP196,Mahmoud Hassan,Male,32,Marketing,Marketing Specialist,7,16230,3892,20122,4.3,38,Hybrid,Cairo
+EMP197,Mariam Kamel,Female,37,Finance,Accountant,15,27455,3328,30783,3.6,34,Hybrid,Cairo
+EMP198,Mohamed Nasser,Male,42,Finance,Accountant,12,24327,2401,26728,2.9,3,Hybrid,Mansoura
+EMP199,Ali Adel,Female,40,Sales,Sales Representative,13,24388,3292,27680,3.2,13,Remote,Tanta
+EMP200,Mahmoud Nasser,Male,24,AI,ML Engineer,0,16801,2534,19335,4.7,35,Hybrid,Giza
