@@ -676,52 +676,63 @@ elif page == "ℹ️ About":
 
     st.title("👨‍💼 Employee Salary Analysis")
 
-    st.markdown("---")
+    with st.container(border=True):
 
-    st.subheader("About This Project")
+        st.subheader("About This Project")
 
-    st.write("🛠 Technologies Used:")
+        st.markdown("### 🛠 Technologies Used")
 
-    st.write("✅ Python")
-    st.write("✅ NumPy")
-    st.write("✅ Pandas")
-    st.write("✅ Matplotlib")
-    st.write("✅ Seaborn")
-    st.write("✅ Streamlit")
+        st.markdown("""
+✅ Python
 
-    st.markdown("---")
+✅ NumPy
 
-    st.write(" 📊 Dataset: Employee Salary Analysis Dataset")
+✅ Pandas
 
-    st.markdown("---")
+✅ Matplotlib
 
-    st.write("✨ Features")
+✅ Seaborn
 
-    st.write("✔ Dataset Preview")
-    st.write("✔ Statistical Analysis")
-    st.write("✔ NumPy Analysis")
-    st.write("✔ GroupBy Analysis")
-    st.write("✔ Employee Filtering")
-    st.write("✔ Interactive Charts")
-    st.write("✔ Download Histogram")
+✅ Streamlit
+""")
 
-    st.markdown("---")
+        st.markdown("---")
 
-    st.markdown(
-        """
-        <div style='text-align:center;'>
+        st.markdown("### 📊 Dataset")
 
-        <b>Developed by Coding Hub</b>
+        st.write("Employee Salary Analysis Dataset")
 
-        <br><br>
+        st.markdown("---")
 
-        © 2026 All Rights Reserved
+        st.markdown("### ✨ Features")
 
-        </div>
-        """,
-        unsafe_allow_html=True
-    )
+        st.markdown("""
+✔ Dataset Preview
 
-    st.success(
-        "Thank you for using Employee Salary Analysis Dashboard 💙"
-    )
+✔ Statistical Analysis
+
+✔ NumPy Analysis
+
+✔ GroupBy Analysis
+
+✔ Employee Filtering
+
+✔ Interactive Charts
+
+✔ Download Histogram
+""")
+
+        st.markdown("---")
+
+        st.markdown(
+            """
+            <div style="text-align:center;">
+                <h4>Developed by Coding Hub</h4>
+                <p>© 2026 All Rights Reserved</p>
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
+
+    st.success("Thank you for using Employee Salary Analysis Dashboard 💙")
+    
