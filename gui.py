@@ -682,34 +682,41 @@ elif page == "ℹ️ About":
 
 This dashboard was developed using:
 
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Streamlit
+✅ Python
+✅ NumPy
+✅ Pandas
+✅ Matplotlib
+✅ Seaborn
+✅ Streamlit
+
+----------------------------
+
+Dataset:
+employee_salary_analysis.csv
 
 ----------------------------
 
 ### Features
 
-- Employee Dataset Preview
+✔ Employee Dataset Preview
 
-- Salary Statistics
+✔ Salary Statistics
 
-- NumPy Analysis
+✔ NumPy Analysis
 
-- GroupBy Analysis
+✔ GroupBy Analysis
 
-- Employee Filtering
+✔ Employee Filtering
 
-- Interactive Charts
+✔ Interactive Charts
 
-- Download Histogram
+✔ Download Histogram
 
 ----------------------------
 
 Developed by **Coding Hub**
+
+© 2026 All Rights Reserved
 
     """)
 
